@@ -1,0 +1,15 @@
+The following marker lines are expected in the submitted notebook:
+
+  [badge_nr_address] Badge number and address, as strings
+  [Declaration] Confirm by assigning True to I_confirm
+  [Remarks] Remarks about irregularities during exam
+  [valid_referendum] Determine whether referendum is valid (10 points)
+  [referendum_passed] Determine whether referendum passes (10 points)
+  [isqrt] Integer square root (5 points)
+  [block] Extract block from matrix (5 points)
+  [matrix_set] Set of values in matrix (5 points)
+  [sudokay] Check Sudoku (10 points)
+  [FileProcessor] Base class FileProcessor (7 points)
+  [WordCapitalizer] Count upper-case and words, capitalize words (8 points)
+  [Free] Explain 'free' in Free Open-Source Software (5 points)
+  [Clean] Explain why to write clean code from the start (5 points)
