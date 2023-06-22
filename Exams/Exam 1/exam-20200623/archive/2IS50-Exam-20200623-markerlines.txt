@@ -1,0 +1,14 @@
+The following marker lines are expected in the submitted notebook:
+
+  [badge_nr_address] Badge number and address, as strings
+  [Declaration] Confirm by assigning True to I_confirm
+  [Remarks] Remarks about irregularities during exam
+  [diagonal] Diagonal set (10 points)
+  [is_alternating] Is word alternating? (10 points)
+  [count_pairs] Count adjacent character pairs (5 points)
+  [is_uniform] Is distribution uniform? (5 points)
+  [is_independent] Is distribution independent? (5 points)
+  [classify_file] Classify all lines in a file (5 points)
+  [BulbCircle] Complete definition of class BulbCircle (15 points)
+  [tabulate_cycles] Tabulate cycle lengths (5 points)
+  [Two_Lessons] Two most important lessons (10 points)

@@ -1,0 +1,14 @@
+The following marker lines are expected in the submitted notebook:
+
+  [badge_nr_address] Badge number and address, as strings
+  [Declaration] Confirm by assigning True to I_confirm
+  [Remarks] Remarks about irregularities during exam
+  [is_no_rep] Is number a no-rep number (10 points)
+  [count_no_rep] Count no-rep numbers (5 points)
+  [counts] Dictionary with no-rep counts (5 points)
+  [jumble_word] Jumble a word (10 points)
+  [jumble_line] Jumble all words in a line (10 points)
+  [jumble_file] Jumble a file (5 points)
+  [Reporter] Base class Reporter (10 points)
+  [MultiplicationTable] Reporter for tables of multiplication (5 points)
+  [TDD] Explain Test-Driven Development (10 points)
